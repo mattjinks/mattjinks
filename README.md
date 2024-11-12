@@ -6,7 +6,6 @@ Looking for work oppurtunities as a Software Engineer <img src="https://media.gi
 
 - :brain: My journey in tech is fueled by curiosity and a desire to create innovative solutions that have impact.
 
-- :seedling: Practicing growth mindset
 - :incoming_envelope: Feel free to reach out! Email in bio 
 
 ---
