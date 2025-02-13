@@ -1,9 +1,5 @@
 ## Hi there, My name is Matthew Jinks 👋
 
-Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<a href="https://portfolio.matthewjinks.com">Portfolio Website</a>
-
 - 🐝: Georgia Institute of Technology alumnus with a B.S. in Computer Science
 
 - :brain: My journey in tech is fueled by curiosity and a desire to create innovative solutions that have impact.
