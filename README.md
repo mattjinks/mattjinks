@@ -1,6 +1,6 @@
 ## Hi there, My name is Matthew Jinks 👋
 
-- 🐝: Georgia Institute of Technology alumnus with a B.S. in Computer Science
+- 🐝: Georgia Institute of Technology B.S. in Computer Science
 
 - :brain: My journey in tech is fueled by curiosity and a desire to create innovative solutions that have impact.
 
